@@ -1,1 +1,3 @@
-# ft_printf
+# 42_ft_printf
+Building printf from scratch
+Text
